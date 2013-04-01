@@ -33,7 +33,7 @@
 #include <cutils/log.h>
 #include <errno.h>
 #include <linux/android_pmem.h>
-#include "gralloc_priv.h"
+#include <gralloc_priv.h>
 #include "pmemadspalloc.h"
 
 using namespace gralloc;
